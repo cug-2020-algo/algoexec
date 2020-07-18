@@ -12,9 +12,9 @@
 
 例如：`/A+B Problem/problem.md`
 
-代码提交在`/%问题%/src/%名称%/`下
+代码提交在`/%问题%/src/%班级%/%名称%/`下
 
-例如：`/A+B Problem/src/ZhangSan/a+b.cpp`
+例如：`/A+B Problem/src/Class 1/ZhangSan/a+b.cpp`
 
 ### 提交
 
