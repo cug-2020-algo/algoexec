@@ -8,13 +8,13 @@
 
 ### 用法
 
-对应的题目在`/%问题%/problem.md`下
+对应的题目在`/problem/%问题%/problem.md`下
 
-例如：`/A+B Problem/problem.md`
+例如：`/problem/A+B Problem/problem.md`
 
-代码提交在`/%问题%/src/%班级%/%名称%/`下
+代码提交在`/src/%班级%/%名称%/%问题%/`下
 
-例如：`/A+B Problem/src/Class 1/ZhangSan/a+b.cpp`
+例如：`/src/Class 1/ZhangSan/A+B Problem/a+b.cpp`
 
 ### 提交
 
