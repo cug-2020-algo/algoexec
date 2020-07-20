@@ -18,7 +18,7 @@
 
 ### 提交
 
-请直接folk此项目，提交时直接pull request即可
+请直接fork此项目，提交时直接pull request即可
 
 ### 疑问
 
