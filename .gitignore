@@ -30,7 +30,3 @@
 *.exe
 *.out
 *.app
-
-#check
-src/check.ps1
-src/report.txt
