@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#check
+src/report.txt
